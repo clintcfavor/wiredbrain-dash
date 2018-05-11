@@ -1,0 +1,8 @@
+{
+  "name": "wiredbrain-dash",
+  "app_id": "d3b8ede9",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
